@@ -1,5 +1,5 @@
 # CSS Zen Garden 切版作業
-[DEMO](https://vina2325.github.io/CSS-Zen-Garden/zengarden.html/ "Title")<br>
+[DEMO](https://vina2325.github.io/CSS-Zen-Garden/zengarden.html "Title")<br>
 ### 作業說明
 1. 為 CSS Zen Garden 設計一個主題風格頁面。
 2. 版型不限制尺寸大小，保留 index.html 裡面的原始結構、內容。
